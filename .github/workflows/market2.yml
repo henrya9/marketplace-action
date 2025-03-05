@@ -10,4 +10,4 @@ jobs:
         with:
           distribution: 'temurin' # see 'suppored distributions' for available options
           java-versions: '21'
-      - run: java HelloWorldApp.java
+      - run: java HelloWorldApp2.java
